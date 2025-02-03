@@ -1,40 +1,30 @@
-Bootstrap Responsive Template
+Note
+====
+ME – Resume and Personal Portfolio Responsive Template
 
-I am HTML5 responsive portfolio resume template is clean multi purpose template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmer’s portfolio. This is a responsive web template you can use for personal portfolio’s websites to showcase your work and CV or Resume template. This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
+Me is a clean, modern and responsive professional looking resume / personal portfolio template. well crafted Designed for user experience on mulit devices like desktop, laptop, smartphones. This template is built on Bootstrap framework which give flexibilty to customeise the theme easly as per the your requirements. Included with all latest technology HTML5 CSS3, jQuery and bootstrap.
 
 
 Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design
-One Page
-Multipurpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
+Twitter Bootstrap 3.2.0
+Valid HTML5 & CSS3
+FontAwesome Icons
+Gallery
+Fully Responsive
+Browser Compatability
 Contact Form
 
+Responsive, Bootstrap Mobile First Web Template
+ 
+Author URI: http://webthemez.com/
 
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+License: Free to use for personal and commercial, but you need to place back link in the bottom of the template(Template by: webthemez.com).
 
 
-Important Note:
----------------
-To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Credits
+=======
+Framework  http://getbootstrap.com
+Images	Unsplash (http://unsplash.com - CC0 licensed) 
+Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 
-
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-
-Note:
-All images user here is for demo purpose only, we are not responsible for any copyrights.
