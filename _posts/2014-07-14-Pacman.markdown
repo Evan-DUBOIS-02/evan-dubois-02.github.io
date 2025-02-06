@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 5
+date: 2025-02-06
+img: pacman.png
+alt: image-alt
+project-date: 2023
+client:
+context: Student project
+languages: C++
+description: Faithful reproduction of the classic Pac-Man game.
+skill1: Advanced use of C++ and object-oriented programming (OOP)
+skill2: Development of AI for ghost movement
+skill3: Use of the game's original sprites
+skill4: Application of all acquired knowledge in a complete project
+---
