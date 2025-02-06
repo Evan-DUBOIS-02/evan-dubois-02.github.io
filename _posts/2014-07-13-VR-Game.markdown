@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+date: 2025-02-06
+img: vrgame.png
+alt: image-alt
+project-date: 2024
+client:
+context: Student project
+languages: C# (Unity)
+description: Development of a VR mini-golf game.
+skill1: Introduction to VR development
+skill2: Use of VR development libraries
+skill3: Experience with Unity and its core principles
+---
