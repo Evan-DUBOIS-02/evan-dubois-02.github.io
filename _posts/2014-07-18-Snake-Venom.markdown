@@ -7,5 +7,19 @@ alt: image-alt
 project-date: 2020
 client:
 category:
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description:
+"""
+LANGUAGES: Java and JavaFX
+DESCRIPTION: Development of an adaptation of the classic \"Snake\" game with a Venom-themed design. 
+CONTEXT: Student project
+ACQUIRED SKILLS:
+    User interface creation
+    Creation of 2D elements in a "retro" style
+    2D animation
+    Collision detection
+    Simple save system implementation
+    Object-oriented architecture setup
+    Procedural terrain generation
+    Implementation of a local co-op mode
+"""
 ---
