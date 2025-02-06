@@ -20,7 +20,10 @@
             <p>{{ post.description }}</p>
             {% endif %}
             {% if post.skill1 %}
-            <ul class="item-details"> Acquired skills:
+            <p>
+              Acquired skills:
+            </p>
+            <ul class="list-inline item-details">
               <li>{{ post.skill1 }}</li>
               {% if post.skill2 %}
               <li>{{ post.skill2 }}</li>
