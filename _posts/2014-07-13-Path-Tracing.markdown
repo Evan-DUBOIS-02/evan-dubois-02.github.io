@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2025-02-06
-img: pacman.png
+img: pathtracing.png
 alt: image-alt
 project-date: 2024
 client:
