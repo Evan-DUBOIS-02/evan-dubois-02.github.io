@@ -19,6 +19,32 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+            {% if post.skill1 %}
+            <ul> Acquired skills:
+              <li>{{ post.skill1 }}</li>
+              {% if post.skill2 %}
+              <li>{{ post.skill2 }}</li>
+              {% endif %}
+              {% if post.skill3 %}
+              <li>{{ post.skill3 }}</li>
+              {% endif %}
+              {% if post.skill4 %}
+              <li>{{ post.skill4 }}</li>
+              {% endif %}
+              {% if post.skill5 %}
+              <li>{{ post.skill5 }}</li>
+              {% endif %}
+              {% if post.skill6 %}
+              <li>{{ post.skill6 }}</li>
+              {% endif %}
+              {% if post.skill7 %}
+              <li>{{ post.skill7 }}</li>
+              {% endif %}
+              {% if post.skill8 %}
+              <li>{{ post.skill8 }}</li>
+              {% endif %}
+            </ul>
+            {% endif %}
             <ul class="list-inline item-details">
               {% if post.languages %}
               <li>Languages:
