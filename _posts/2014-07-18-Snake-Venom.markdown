@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2020
 client:
 category:
-description: Development of an adaptation of the classic "Snake" game with a Venom-themed design. ACQUIRED SKILLS User interface creation Creation of 2D elements in a "retro" style 2D animation Collision detection Simple save system implementation Object-oriented architecture setup Procedural terrain generation Implementation of a local co-op mode
 languages: Java and JavaFX 
+description: Development of an adaptation of the classic "Snake" game with a Venom-themed design. ACQUIRED SKILLS User interface creation Creation of 2D elements in a "retro" style 2D animation Collision detection Simple save system implementation Object-oriented architecture setup Procedural terrain generation Implementation of a local co-op mode
 ---

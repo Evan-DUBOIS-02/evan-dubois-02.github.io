@@ -16,20 +16,13 @@
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            <ul>
-              {% if post.languages %}
-              <li>Languages:
-                {{ poste.languages }}
-              </li>
-              {% endif %}
-            </ul>
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
+              {% if post.languages %}
+              <li>Languages:
+                <strong>{{ post.languages }}</strong>
               </li>
               {% endif %}
               {% if post.project-date %}
