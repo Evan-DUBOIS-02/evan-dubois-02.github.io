@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+date: 2025-02-06
+img: OpenTour.png
+alt: image-alt
+project-date: 2020/2021
+client:
+context: End-of-course student project (DUT)
+languages: Python, Django, Django rest, Nuxt.js, Vue.js, Vuetify, Docker and GitLab
+description: Development of a serious game in the form of a web app. Its goal is to transform tourist visits into heroic fantasy quests or treasure hunts, making them more engaging, flexible, and fun while preserving the richness of the information. Users can create an account to gain experience, form teams, and participate in leaderboards.        
+skill1: Use of various frameworks
+skill2: Development of a complete web application
+skill3: Application of development methodologies (SCRUM and KANBAN)
+---

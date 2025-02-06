@@ -6,7 +6,7 @@ img: SnakeVenom.png
 alt: image-alt
 project-date: 2020
 client:
-category:
+context: Student project
 languages: Java and JavaFX 
 description: Development of an adaptation of the classic "Snake" game with a Venom-themed design.        
 skill1: User interface creation
