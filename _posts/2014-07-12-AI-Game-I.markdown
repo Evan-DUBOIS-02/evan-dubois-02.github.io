@@ -1,15 +1,15 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 9
 date: 2025-02-06
-img: AIGameI.png
+img: AIGameII.png
 alt: image-alt
 project-date: 2024
-link: https://othentv.itch.io/spa-tactical-game
+link: https://othentv.itch.io/space-boid-survivor
 context: Student project
 languages: C# (Unity)
-description: Development of a game integrating shortest path algorithms.
-skill1: Implementation of shortest path algorithms (Dijkstra and A* ) in a Unity project
-skill2: Development of a tactical game
-skill3: Creation of a level editor
+description: Development of a game implementing boid behavior.
+skill1: Implementation of boid behavior in a Unity project
+skill2: Development of a survivor game
+skill3: Creation of a menu and user interface
 ---
