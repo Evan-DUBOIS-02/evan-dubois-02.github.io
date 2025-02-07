@@ -3,6 +3,8 @@ layout: default
 modal-id: 4
 date: 2025-02-06
 img: rendu.png
+img1: rendu1.png
+img2: rendu2.png
 alt: image-alt
 project-date: 2022
 client:

@@ -3,6 +3,7 @@ layout: default
 modal-id: 8
 date: 2025-02-06
 img: AIGameI.png
+img1: AIGameI1.png
 alt: image-alt
 project-date: 2024
 link: https://othentv.itch.io/spa-tactical-game

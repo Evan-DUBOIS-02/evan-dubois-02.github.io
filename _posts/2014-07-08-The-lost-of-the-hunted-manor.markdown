@@ -3,6 +3,7 @@ layout: default
 modal-id: 11
 date: 2025-02-06
 img: TLOTHM.png
+img1: TLOTHM1.png
 alt: image-alt
 project-date: 2024
 link: https://othentv.itch.io/the-lost-of-the-hunted-manor

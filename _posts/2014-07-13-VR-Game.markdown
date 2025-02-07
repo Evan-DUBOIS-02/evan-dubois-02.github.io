@@ -3,6 +3,9 @@ layout: default
 modal-id: 7
 date: 2025-02-06
 img: vrgame.png
+img1: vrgame1.png
+img2: vrgame2.png
+img3: vrgame3.png
 alt: image-alt
 project-date: 2024
 client:

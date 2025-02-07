@@ -3,6 +3,8 @@ layout: default
 modal-id: 10
 date: 2025-02-06
 img: neonbullet.png
+img1: neonbullet1.png
+img2: neonbullet2.png
 alt: image-alt
 project-date: 2024
 link: https://othentv.itch.io/neon-bullet

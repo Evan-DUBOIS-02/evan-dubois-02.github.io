@@ -48,6 +48,15 @@
               {% endif %}
             </ul>
             {% endif %}
+            {% if post.img1 %}
+            <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
+            {% if post.img2 %}
+            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
+            {% if post.img3 %}
+            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
             <ul class="list-inline item-details">
               {% if post.languages %}
               <li>Languages:

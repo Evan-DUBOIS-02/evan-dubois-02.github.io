@@ -3,6 +3,7 @@ layout: default
 modal-id: 12
 date: 2025-02-06
 img: pioupiou.png
+img1: pioupiou1.png
 alt: image-alt
 project-date: 2025
 link: https://othentv.itch.io/piou-piou
