@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 12
+date: 2025-02-06
+img: pioupiou.png
+alt: image-alt
+project-date: 2025
+link: https://othentv.itch.io/piou-piou
+context: Personal project
+languages: C# (Unity)
+description: Creation of a game for a wedding—a surprise prepared for the newlyweds and to entertain their guests. Everyone was a fan of chickens!
+skill1: Development of a complete game
+skill2: Implementation of simple local multiplayer
+skill3: Management of two controllers simultaneously
+skill4: Balancing and overall game polish
+skill5: Focus on accessibility and an in-game tutorial
+---
