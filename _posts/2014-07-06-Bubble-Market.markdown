@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 13
-date: 2025-02-12
+date: 2025-02-06
 img: BubbleMarket.png
 img1: BubbleMarket1.png
 alt: image-alt
