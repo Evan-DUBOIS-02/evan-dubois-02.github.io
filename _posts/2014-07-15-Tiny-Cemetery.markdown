@@ -3,6 +3,7 @@ layout: default
 modal-id: 15
 date: 2025-03-16
 img: TC.png
+img1: TC1.png
 alt: image-alt
 project-date: 2025
 link: https://othentv.itch.io/tiny-cemetery
